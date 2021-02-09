@@ -120,10 +120,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://i-ate-a-vm.github.io/"
+      url: "https://twitter.com/i_ate_a_vm_once"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://i-ate-a-vm.github.io/"
+      url: "https://github.com/i-ate-a-vm"
 
 
 # Reading Files
